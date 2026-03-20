@@ -44,7 +44,7 @@ Write the detailed procedure here
 
 **Program:**
 ```
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: REGNumber:
 */
 module fa1_df(sum, cout, a, b, cin);
     output sum;
@@ -82,6 +82,18 @@ endmodule
 
 
 **Output Timing Waveform**
+
+
+
+
+
+<img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/b39327dc-74b9-4b95-b753-da8356dc8fbd" />
+
+
+
+
+
+
 
 **Result:**
 
